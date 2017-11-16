@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_Earv8crrEeemQ7a8Q7pjrg" label="labs" description="" language="java" technicalLabel="LABS" creationDate="2017-11-16T08:15:39.000-0800" author="_Earv8srrEeemQ7a8Q7pjrg" productVersion="Talend Data Fabric-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/talendbmw42/git-training.git&quot;,&quot;login&quot;:&quot;talendbmw42&quot;,&quot;passwd&quot;:&quot;4DNp2zPTon4=&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_Earv8srrEeemQ7a8Q7pjrg" login="admin@company.com" firstName="Admin" lastName="Admin" type="MDM" additionnalData="{}"/>
+</xmi:XMI>
